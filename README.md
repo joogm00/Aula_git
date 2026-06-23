@@ -11,6 +11,7 @@ Adicionando um texto ao nosso readme.
 Para criar um pull request, crie uma nova branch e
 envie suas alterações, logo crie uma solicitação 
 para a branch principal.
+
 ## CRIANDO UM CONFLITO 
 
 um conflito existe quando o mesmo arquivo é 
